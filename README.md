@@ -4,7 +4,7 @@ Hi, I'm Govardhan pathakamuri   👋
 🔭 Current project: *ToDO APP* (Auth + Django + MySQL)
 ✅ I write tests with pytest and use GitHub Actions (CI)
 🌱 Learning: caching, async, system design basics
-🌐 Portfolio/LinkedIn:   / https://www.linkedin.com/in/vardhan-chowdhary-213a0b38a • 📫 vardhanchowdhary39@gmail.com
+🌐 Portfolio/LinkedIn:   / linkedin • 📫 vardhanchowdhary39@gmail.com
 
 Tech
 Python, REST API, Django, React, JavaScript, HTML/CSS, PostgreSQL, Git, Docker, Pytest, GitHub Actions
